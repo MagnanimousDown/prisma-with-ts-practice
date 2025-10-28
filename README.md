@@ -19,7 +19,7 @@ npm install prisma --save-dev
 ```
 
 ```bash
-npx prisma init --datasource-provider sqlite --output ../generated/prisma
+npx prisma init --datasource-provider postgresql
 ```
 
 ## define the schema
